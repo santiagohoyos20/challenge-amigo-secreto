@@ -6,4 +6,4 @@ Este proyecto hace parte del programa de formación Oracle Next Education junto 
 
 <br>
 
-![Imagen de la aplicación](image.png)
+<img src="image.png" width="700"/>
